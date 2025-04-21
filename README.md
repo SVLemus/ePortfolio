@@ -4,13 +4,13 @@
 
 ## Self-Assessment
 
-Completing the Computer Science program and building this ePortfolio has allowed me to showcase my strengths, refine my professional goals, and prepare for a career in the tech industry. Through hands-on projects and coursework, I’ve developed a solid foundation in software engineering, data structures, databases, and security—all critical areas in today’s job market.
+Completing the Computer Science program and building this ePortfolio has allowed me to showcase my strengths, refine my professional goals, and prepare for a career in the tech industry. Through hands on projects and coursework, I’ve developed a solid foundation in software engineering, data structures, databases, and security all critical areas in today’s job market.
 
 Team collaboration and stakeholder communication were key parts of my learning experience in my courses throughout my program. I’ve also grown confident in presenting technical concepts to both technical and non-technical audiences.
 
-My technical strengths include optimizing algorithms, writing scalable code, and building secure database systems. For example, I improved performance in a Java-based contact manager by switching from an ArrayList to a HashMap. In a separate Python project, I enhanced a MongoDB-based animal shelter system with indexing, aggregation pipelines, and role-based access control.
+My technical strengths include optimizing algorithms, writing scalable code, and building secure database systems. For example, I improved performance in a Java based contact manager by switching from an ArrayList to a HashMap. In a separate Python project, I enhanced a MongoDBbased animal shelter system with indexing, aggregation pipelines, and role based access control.
 
-The artifacts in this portfolio reflect my ability to analyze, enhance, and implement real-world applications using industry best practices. They demonstrate how my skills in software development, data handling, and system security come together to solve practical problems efficiently and effectively.
+The artifacts in this portfolio reflect my ability to analyze, enhance, and implement real world applications using industry best practices. They demonstrate how my skills in software development, data handling, and system security come together to solve practical problems efficiently and effectively.
 
 With this foundation, I’m confident in my ability to contribute to development teams and grow as a professional in the computer science field.
 

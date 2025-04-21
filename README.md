@@ -29,7 +29,7 @@ By implementing these enhancements, both artifacts are transformed into more eff
 
 ## Enhancement One - Software Design And Engineering
 
-[![CS499 Capstone Code Review](https://snhu-my.sharepoint.com/:w:/r/personal/steven_valdiviesolemus_snhu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BC626E68D-9A8C-4055-9ABD-76B67563CFED%7D&file=(CS499)%20Code%20Review%20Script.docx&action=default&mobileredirect=true)]
+[I'm a relative reference to a repository file](../Enhancement One Collection/ContactService (Original))
 
 ## Enhancement Two - Algorithms and Data Structure
 

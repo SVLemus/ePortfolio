@@ -65,6 +65,17 @@ This artifact demonstrates my ability to write efficient, clean, and scalable co
 
 ## Enhancement Three - Databases
 
+The AnimalShelter.py module is a Python-based backend system designed to manage animal data using MongoDB. Originally developed during my CS 340: Data Structures and Database course, the artifact provided basic functionality for inserting and querying animal records. In April 2025, I revisited and enhanced the script to demonstrate more advanced database concepts and backend development practices for inclusion in my ePortfolio.
+
+This artifact represents my growing ability to design and implement scalable, secure, and maintainable software. The enhanced version introduces several meaningful upgrades: role-based access control for sensitive operations, an aggregation pipeline to gather breed statistics, index creation for improved query performance, and a simple authentication system for users. These additions not only improved the application's real-world viability but also showcased my ability to apply practical database enhancements and enforce security measures within the backend.
+
+Throughout the enhancement process, I deepened my understanding of MongoDB beyond basic CRUD operations. Implementing the aggregation pipeline allowed me to analyze shelter data, while adding index creation demonstrated my ability to optimize performance at scale. Designing role-based access controls introduced security concepts into the project, ensuring that only users with admin privileges could modify or delete records. This also helped simulate a multi-user environment, reflecting professional backend development practices.
+
+I faced several challenges along the way, including managing exceptions gracefully across various MongoDB operations, enforcing access control without overcomplicating the logic, and ensuring data validation. To overcome these issues, I reviewed documentation, followed MongoDB’s best practices, and conducted extensive testing. Although I worked independently, I drew from previous project feedback and emphasized writing robust, secure, and modular code.
+
+This artifact reflects proficiency in key areas of software development. It meets the outcomes for Software Design and Engineering through structured, maintainable code and defensive programming techniques. The use of MongoDB’s aggregation and indexing features demonstrates competency in Databases and Algorithms and Data Structures. While the project does not include a frontend component, it provides a solid foundation for backend services and could be extended into a full-stack application.
+
+Enhancing this artifact allowed me to bridge classroom knowledge with real-world application, reinforcing my confidence in working with databases, implementing access control, and writing secure, production-quality code.
 
 [AnimalShelter.py](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20Three%20Collection%20-%20Databases/AnimalShelter.py)
 

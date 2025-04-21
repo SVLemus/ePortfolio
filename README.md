@@ -4,7 +4,13 @@
 
 ## Self-Assessment
 
+Throughout my Computer Science program, I’ve developed a strong foundation in software engineering, data structures, databases, and security. Creating this ePortfolio gave me the opportunity to reflect on my growth and present technical artifacts that demonstrate my capabilities and readiness for a career in the field.
 
+Developing and enhancing real-world applications helped me strengthen my problem-solving skills and apply industry best practices. I’ve learned to communicate effectively by clearly explaining technical decisions and justifying enhancements through documentation and presentations.
+
+For example, I optimized a Java contact management system by replacing an inefficient ArrayList with a HashMap, significantly improving lookup performance. In a Python-based MongoDB project, I implemented indexing, aggregation pipelines, and role-based access control to create a more secure and scalable system.
+
+These artifacts showcase my ability to design, analyze, and improve software systems. Together, they highlight my technical strengths and my commitment to writing clean, efficient, and secure code. My coursework and this portfolio have prepared me to confidently enter the computer science field and continue growing as a professional.
 
 # Informal Code Review
 

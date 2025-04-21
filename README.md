@@ -38,8 +38,6 @@ By implementing these enhancements, both artifacts are transformed into more eff
 
 The artifact is a Contact Management System written in Java. It allows users to manage contacts by performing CRUD (Create, Read, Update, Delete) operations. Initially created as part of the CS320 course that I participated in around a year ago, the system is focused on testing and ensuring correct behavior. The original version was functional but lacked robust input validation, error handling, and efficiency improvements. The artifact here is the original code and its enhanced version after applying modifications to improve its modularity, validation, and overall efficiency. 
 
- 
-
 ### Justification for Inclusion: 
 
 This artifact showcases my skills in software development, particularly in the following areas: 
@@ -52,8 +50,6 @@ This artifact showcases my skills in software development, particularly in the f
 
 I selected this artifact because it allowed me to apply real world best practices to a project and improve its functionality, aligning with the objectives of testing, validation, and modular design. 
 
- 
-
 ### Specific Components Showcasing Skills: 
 
 **Modularity:** The creation of helper functions like isValidName, isValidPhoneNumber, and validateContact refactors the larger methods, making the code cleaner and easier to manage. 
@@ -64,8 +60,6 @@ I selected this artifact because it allowed me to apply real world best practice
 
 **Efficiency Improvement:** The validation and error handling are improvements that will make the system more stable in its current form. 
 
- 
-
 ### Course Outcome Coverage: 
 
 I successfully met the course outcomes related to software design, particularly: 
@@ -73,8 +67,6 @@ I successfully met the course outcomes related to software design, particularly:
 **Course Outcome 3:** I designed and evaluated computing solutions that improved the original system through algorithmic improvements such as validation and a more robust structure. 
 
 **Course Outcome 4:** I demonstrated my ability to use techniques and tools like validation functions and helper methods to improve the system's functionality and ensure it works reliably in a real-world scenario. 
-
- 
 
 ### Reflection on the Enhancement Process: 
 
@@ -92,13 +84,45 @@ The enhancement process provided valuable learning opportunities:
 
 ## Enhancement Two - Algorithms and Data Structure
 
-The ContactService.java file is a Java class that provides basic functionality for managing a list of contacts, including operations to add, update, delete, and retrieve contact information. It was originally created in an earlier course in my Computer Science program and later enhanced during the Spring 2025 term as part of CS499. The enhanced version transitioned to using a HashMap, significantly improving performance by enabling constant-time lookups, updates, and deletions based on contact IDs. This work was completed during a software development course focused on object-oriented design and data structures. 
+### Artifact: 
 
-This artifact was chosen for my ePortfolio because it showcases my growth as a developer, particularly in understanding and applying core programming concepts such as object-oriented principles, data validation, and efficient data management. The most significant change in the enhancement was the move from an ArrayList to a HashMap, which demonstrates my ability to evaluate and improve the performance of my code. The enhanced version also includes clearer exception handling and more robust validation logic, making the code more maintainable and reliable. 
+The artifact is a Contact Management System originally created for the CS320 course, which I developed to manage contact information using CRUD operations. Initially, the system employed an ArrayList to store contact data, which worked but was not the most efficient for operations like searching, updating, and deleting contacts. The enhancement involves replacing the ArrayList with a HashMap, which will significantly improve the performance of these operations, reducing the time complexity from O(n) to O(1). The new version of the system will also include optimizations in the update and search algorithms to ensure that only the fields that need updating are modified. 
 
-Through enhancing this artifact, I developed a deeper understanding of how different data structures affect the performance and scalability of applications. The challenge of maintaining consistent functionality while refactoring core logic required close attention to detail and rigorous testing. Peer and instructor feedback played a key role in shaping the final version as I received feedback that I had the clear to continue which helped my resolve. I learned how to refactor code thoughtfully and how to implement enhancements that make a real impact on usability and performance. 
 
-This artifact demonstrates my ability to write efficient, clean, and scalable code. It reflects several course outcomes including the use of object-oriented techniques, implementation of robust validation and exception handling, and performance optimization through proper data structure selection. 
+
+### Justification for Inclusion: 
+
+This artifact highlights my ability to apply algorithmic principles and data structure optimizations to a real-world software application. The improvement from an ArrayList to a HashMap directly addresses performance bottlenecks in the original system, aligning with key course outcomes. By enhancing both the data structure and the efficiency of the algorithms, the artifact demonstrates the impact of thoughtful design choices in real-world systems. 
+
+**Data Structure Optimization:** Replacing the ArrayList with a HashMap demonstrates my understanding of selecting the right data structure based on the performance requirements of the system. 
+
+**Algorithmic Efficiency:** Refining the update and search functions minimizes redundant operations, illustrating my ability to design efficient algorithms. 
+
+**Scalability:** The use of a HashMap enables the system to scale efficiently, especially as the number of contacts grows. 
+
+### Specific Components Showcasing Skills: 
+
+**Data Structure Optimization:** The shift from an ArrayList to a HashMap will allow the system to handle CRUD operations in constant time (O(1)) instead of linear time (O(n)). This enhancement directly improves the performance of the system, especially when dealing with large amounts of data. 
+
+**Algorithmic Efficiency:** The update and search functions have been refined so that only the necessary fields are updated, and the search is performed using the contact ID as the key in the HashMap. This ensures that retrieval and modification operations are as efficient as possible. 
+
+### Course Outcome Coverage: 
+
+I successfully met the course outcomes related to software design, particularly: 
+
+**Course Outcome 3:** I designed and evaluated a computing solution by optimizing the contact management system’s data structure and algorithms. This improvement illustrates my ability to apply algorithmic principles to enhance the efficiency of a real-world application while managing the trade-offs involved in design choices. 
+
+**Course Outcome 4:** I applied well-founded techniques and tools, such as selecting appropriate data structures and refining algorithms, to improve the system’s efficiency. This aligns with industry goals of delivering scalable, high-performance software solutions. 
+
+### Reflection on the Enhancement Process: 
+
+The enhancement process provided valuable learning opportunities: 
+
+**Optimization Of Performance:** I gained a deeper understanding of the impact of selecting the right data structure for the task at hand. Replacing the ArrayList with a HashMap directly improved the system's time complexity for search, update, and delete operations, allowing for constant-time performance rather than linear-time performance. 
+
+**Efficiency Of Algorithms:** I learned how refining algorithms to work on only the necessary data can significantly enhance performance by minimizing redundant operations. 
+
+**Challenges:** One of the challenges I faced during this enhancement was ensuring backward compatibility with the existing code. Since the original system used an ArrayList and relied on linear searches, I had to carefully plan the transition to a HashMap without disrupting existing functionality. This required modifying the contact management logic while ensuring the updated methods still worked seamlessly with the rest of the application. I also had to test the new data structure thoroughly to avoid introducing new bugs, especially in edge cases where a contact might not exist. 
 
 [ContactService Original V2 Enhancement 2](https://github.com/SVLemus/ePortfolio/blob/main/Enchantment%20Two%20Collection%20-%20Algorithms%20and%20Data%20Structure/ContactService%20(Revisited).java)
 

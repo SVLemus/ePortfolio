@@ -6,7 +6,7 @@
 
 Completing the Computer Science program and building this ePortfolio has allowed me to showcase my strengths, refine my professional goals, and prepare for a career in the tech industry. Through hands on projects and coursework, I’ve developed a solid foundation in software engineering, data structures, databases, and security all critical areas in today’s job market.
 
-Team collaboration and stakeholder communication were key parts of my learning experience in my courses throughout my program. I’ve also grown confident in presenting technical concepts to both technical and non-technical audiences.
+Team collaboration and stakeholder communication were key parts of my learning experience in my courses throughout my program. I’ve also grown confident in presenting technical concepts to both technical and non technical audiences.
 
 My technical strengths include optimizing algorithms, writing scalable code, and building secure database systems. For example, I improved performance in a Java based contact manager by switching from an ArrayList to a HashMap. In a separate Python project, I enhanced a MongoDBbased animal shelter system with indexing, aggregation pipelines, and role based access control.
 
@@ -29,7 +29,7 @@ I identify areas for improvement, such as repeated logic, inefficient data struc
 ## Enhancements:
 I describe and demonstrate planned enhancements. In ContactService.java, I break down larger methods, apply the Single Responsibility Principle, and switch to a HashMap for better performance. In AnimalShelter.py, I add update and delete operations, improve error handling by catching specific exceptions, implement indexing for commonly queried fields, integrate aggregation pipelines for reporting, and introduce user authentication and role-based access control to secure data access.
 
-By implementing these enhancements, both artifacts are transformed into more efficient, scalable, and secure systems, prepared for real-world application in production environments.
+By implementing these enhancements, both artifacts are transformed into more efficient, scalable, and secure systems, prepared for real world application in production environments.
 
 ## Code View Video
 

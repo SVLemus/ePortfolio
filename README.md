@@ -21,7 +21,7 @@ I describe and demonstrate planned enhancements. In ContactService.java, I break
 
 By implementing these enhancements, both artifacts are transformed into more efficient, scalable, and secure systems, prepared for real-world application in production environments.
 
-Code View Video
+## Code View Video
 
 [![CS499 Capstone Code Review](https://img.youtube.com/vi/pZlWwK_YXGA/0.jpg)](https://www.youtube.com/watch?v=pZlWwK_YXGA)
 

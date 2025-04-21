@@ -8,6 +8,8 @@
 
 # Informal Code Review
 
+## Summary
+
 My code review video includes two software artifacts: ContactService.java and AnimalShelter.py. I review each artifact individually to identify design issues, performance inefficiencies, and opportunities for enhancement. During the walkthrough of each artifact, I explain my plans for improvement and how these align with industry best practices. For the engineering and design, as well as algorithms and data structures topics, I analyze and demonstrate enhancements in ContactService.java using Java. For the database topic, I showcase AnimalShelter.py in Python, using PyCharm to explore improvements in database interaction and data security. Throughout the video, I apply clear, professional, and technically sound oral, visual, and written communication strategies to present a coherent and accessible code review experience suitable for a professional or academic audience. My review centers around three essential aspects:
 
 ## Existing Functionality:

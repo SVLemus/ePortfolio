@@ -82,6 +82,8 @@ The enhancement process provided valuable learning opportunities:
 
 [Contact Service Revisited](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20One%20Collection%20-%20Software%20Design%20And%20Engineering/ContactService%20(Revisited).java)
 
+[Narrative Enhancement One](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20One%20Collection%20-%20Software%20Design%20And%20Engineering/(CS499%20SVL)%20Enhancement%20One%20Software%20Design%20and%20Engineering.pdf)
+
 ## Enhancement Two - Algorithms and Data Structure
 
 ### Artifact: 

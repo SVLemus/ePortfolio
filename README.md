@@ -29,7 +29,7 @@ By implementing these enhancements, both artifacts are transformed into more eff
 
 ## Enhancement One - Software Design And Engineering
 
-[TEXT TO SHOW](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20One%20Collection%20-%20Software%20Design%20And%20Engineering/ContactService%20(Original).java))
+[Contact Service Original](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20One%20Collection%20-%20Software%20Design%20And%20Engineering/ContactService%20(Original).java)
 
 ## Enhancement Two - Algorithms and Data Structure
 

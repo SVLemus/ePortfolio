@@ -34,7 +34,7 @@ By implementing these enhancements, both artifacts are transformed into more eff
 
 ## Enhancement One - Software Design And Engineering
 
-###Artifact: 
+### Artifact: 
 
 The artifact is a Contact Management System written in Java. It allows users to manage contacts by performing CRUD (Create, Read, Update, Delete) operations. Initially created as part of the CS320 course that I participated in around a year ago, the system is focused on testing and ensuring correct behavior. The original version was functional but lacked robust input validation, error handling, and efficiency improvements. The artifact here is the original code and its enhanced version after applying modifications to improve its modularity, validation, and overall efficiency. 
 

@@ -4,13 +4,15 @@
 
 ## Self-Assessment
 
-Throughout my Computer Science program, I’ve developed a strong foundation in software engineering, data structures, databases, and security. Creating this ePortfolio gave me the opportunity to reflect on my growth and present technical artifacts that demonstrate my capabilities and readiness for a career in the field.
+Completing the Computer Science program and building this ePortfolio has allowed me to showcase my strengths, refine my professional goals, and prepare for a career in the tech industry. Through hands-on projects and coursework, I’ve developed a solid foundation in software engineering, data structures, databases, and security—all critical areas in today’s job market.
 
-Developing and enhancing real-world applications helped me strengthen my problem-solving skills and apply industry best practices. I’ve learned to communicate effectively by clearly explaining technical decisions and justifying enhancements through documentation and presentations.
+Team collaboration and stakeholder communication were key parts of my learning experience in my courses throughout my program. I’ve also grown confident in presenting technical concepts to both technical and non-technical audiences.
 
-For example, I optimized a Java contact management system by replacing an inefficient ArrayList with a HashMap, significantly improving lookup performance. In a Python-based MongoDB project, I implemented indexing, aggregation pipelines, and role-based access control to create a more secure and scalable system.
+My technical strengths include optimizing algorithms, writing scalable code, and building secure database systems. For example, I improved performance in a Java-based contact manager by switching from an ArrayList to a HashMap. In a separate Python project, I enhanced a MongoDB-based animal shelter system with indexing, aggregation pipelines, and role-based access control.
 
-These artifacts showcase my ability to design, analyze, and improve software systems. Together, they highlight my technical strengths and my commitment to writing clean, efficient, and secure code. My coursework and this portfolio have prepared me to confidently enter the computer science field and continue growing as a professional.
+The artifacts in this portfolio reflect my ability to analyze, enhance, and implement real-world applications using industry best practices. They demonstrate how my skills in software development, data handling, and system security come together to solve practical problems efficiently and effectively.
+
+With this foundation, I’m confident in my ability to contribute to development teams and grow as a professional in the computer science field.
 
 # Informal Code Review
 

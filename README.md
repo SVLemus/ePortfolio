@@ -130,17 +130,47 @@ The enhancement process provided valuable learning opportunities:
 
 ## Enhancement Three - Databases
 
-The AnimalShelter.py module is a Python based backend system designed to manage animal data using MongoDB. Originally developed during my CS 340: Data Structures and Database course, the artifact provided basic functionality for inserting and querying animal records. In April 2025, I revisited and enhanced the script to demonstrate more advanced database concepts and backend development practices for inclusion in my ePortfolio. 
+### Artifact: 
 
-This artifact represents my growing ability to design and implement scalable, secure, and maintainable software. The enhanced version introduces several meaningful upgrades: role-based access control for sensitive operations, an aggregation pipeline to gather breed statistics, index creation for improved query performance, and a simple authentication system for users. These additions not only improved the application's real-world viability but also showcased my ability to apply practical database enhancements and enforce security measures within the backend. 
+The artifact is AnimalShelter.py, a backend application that manages animal shelter data using MongoDB. It was created as part of CS 340 Project 2: Dashboard. Initially, the system allowed for basic CRUD operations to manage animal records but lacked efficiency in handling larger datasets. The enhancement involves adding advanced MongoDB features such as data indexing, aggregation pipelines, and user authentication with role-based access control. These improvements will optimize the system’s performance and security, making it more efficient and scalable. 
 
-Throughout the enhancement process, I deepened my understanding of MongoDB beyond basic CRUD operations. Implementing the aggregation pipeline allowed me to analyze shelter data, while adding index creation demonstrated my ability to optimize performance at scale. Designing role-based access controls introduced security concepts into the project, ensuring that only users with admin privileges could modify or delete records. This also helped simulate a multi-user environment, reflecting professional backend development practices. 
+ 
 
-I faced several challenges along the way, including managing exceptions gracefully across various MongoDB operations, enforcing access control without overcomplicating the logic, and ensuring data validation. To overcome these issues, I reviewed documentation, followed MongoDB’s best practices, and conducted extensive testing. Although I worked independently, I drew from previous project feedback and emphasized writing robust, secure, and modular code. 
+### Justification for Inclusion:
 
-This artifact reflects proficiency in key areas of software development. It meets the outcomes for Software Design and Engineering through structured, maintainable code and defensive programming techniques. The use of MongoDB’s aggregation and indexing features demonstrates competency in Databases and Algorithms and Data Structures. While the project does not include a front-end component, it provides a solid foundation for back-end services and could be extended into a full-stack application. 
+I selected this artifact because it demonstrates my ability to optimize database-driven applications and enhance their functionality. The improvements I made, such as adding indexing and using aggregation pipelines, directly address performance bottlenecks. The addition of user authentication and role-based access control showcases my understanding of how to secure applications, which is a crucial skill in real-world software development. These changes enhance the system’s scalability, security, and efficiency. 
 
-Enhancing this artifact allowed me to bridge classroom knowledge with real-world application, reinforcing my confidence in working with databases, implementing access control, and writing secure, production-quality code. 
+**Data Structure Optimization:** By adding indexing and using aggregation pipelines, I optimized data retrieval and complex query performance. 
+
+**Algorithmic Efficiency:** The aggregation pipeline enhances query performance by grouping and filtering data efficiently, improving the system's overall algorithmic performance. 
+
+**Security and Access Control:** Implementing user authentication and role-based access ensures that only authorized personnel can access sensitive data, highlighting my skills in securing software applications. 
+
+### Specific Components Showcasing Skills: 
+
+**Data Structure Optimization:** Implementing indexing improves query performance by reducing lookup time, making operations faster and more efficient as the data grows. 
+
+**Algorithmic Efficiency:** The aggregation pipelines allow complex queries to run efficiently, enabling reports and detailed searches to be executed quickly. 
+
+**Security and Access Control:** Adding role-based access control ensures that only authorized users can perform sensitive operations such as updating or deleting records. 
+
+### Course Outcome Coverage: 
+
+I successfully met the course outcomes related to software design, particularly: 
+
+**Course Outcome 3:** I designed and evaluated a computing solution by optimizing the AnimalShelter.py system with advanced database features like indexing and aggregation pipelines, applying algorithmic principles to improve performance. 
+
+**Course Outcome 4:** I implemented secure coding practices by incorporating user authentication and role-based access control, aligning with industry standards for building secure applications. 
+
+### Reflection on the Enhancement Process: 
+
+The enhancement process provided valuable learning opportunities: 
+
+**Optimization Of Performance:** I gained insight into how indexing, and aggregation pipelines can drastically improve the performance of MongoDB queries, especially for large datasets. These enhancements make the system more efficient and scalable. 
+
+**Improving Security:** Implementing role-based access control was a valuable learning experience, as it ensured that only users with the correct roles could perform sensitive actions, such as updating or deleting animal records. 
+
+**Challenges:** One of the biggest challenges was ensuring that the new features worked harmoniously with the existing CRUD operations. Integrating the new MongoDB features required careful testing to avoid issues with the legacy code, particularly around user authentication and permissions. Another challenge was ensuring the system remained easy to use while adding complex database functionalities like aggregation and indexing. 
 
 [AnimalShelter.py](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20Three%20Collection%20-%20Databases/AnimalShelter.py)
 

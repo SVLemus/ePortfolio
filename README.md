@@ -129,6 +129,7 @@ The enhancement process provided valuable learning opportunities:
 [ContactService Original V2 Enhancement 2](https://github.com/SVLemus/ePortfolio/blob/main/Enchantment%20Two%20Collection%20-%20Algorithms%20and%20Data%20Structure/ContactService%20(Revisited).java)
 
 [ContactService Revisited V2 Enhancement 2](https://github.com/SVLemus/ePortfolio/blob/main/Enchantment%20Two%20Collection%20-%20Algorithms%20and%20Data%20Structure/ContactService%20Revisited%20Enhancement%202.java)
+[Narrative Enhancement Two](https://github.com/SVLemus/ePortfolio/blob/main/Enchantment%20Two%20Collection%20-%20Algorithms%20and%20Data%20Structure/(CS499%20SVL)%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure.pdf)
 
 ## Enhancement Three - Databases
 
@@ -177,3 +178,5 @@ The enhancement process provided valuable learning opportunities:
 [AnimalShelter.py](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20Three%20Collection%20-%20Databases/AnimalShelter.py)
 
 [AnimalShelter.py - Revisited](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20Three%20Collection%20-%20Databases/AnimalShelter%20-%20Revisited.py)
+
+[Narrative Enhancement Three](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20Three%20Collection%20-%20Databases/(SVL%20CS499)%205-2%20Milestone%20Four%20Enhancement%20Three%20Databases.pdf)

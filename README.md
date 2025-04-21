@@ -34,13 +34,57 @@ By implementing these enhancements, both artifacts are transformed into more eff
 
 ## Enhancement One - Software Design And Engineering
 
-The ContactService.java file is a Java class that provides basic functionality for managing a list of contacts, including operations to add, update, delete, and retrieve contact information. It was originally created in an earlier course in my Computer Science program and later enhanced during the Spring 2025 term as part of CS499. This artifact demonstrates essential object-oriented programming principles, including encapsulation, modularity, and method abstraction.
+###Artifact: 
 
-I selected this artifact for my ePortfolio because it reflects my growth in software design and engineering. While the original version of the class met functional requirements, it lacked robustness and proper input validation. Enhancing the artifact allowed me to demonstrate the application of core design principles such as single responsibility and clean code practices. By introducing helper methods like isValidName, isValidPhoneNumber, and validateContact, I was able to modularize the logic, reduce duplication, and improve maintainability. These changes showcase my ability to refactor existing code to meet higher quality standards, making the application more reliable and easier to extend in the future.
+The artifact is a Contact Management System written in Java. It allows users to manage contacts by performing CRUD (Create, Read, Update, Delete) operations. Initially created as part of the CS320 course that I participated in around a year ago, the system is focused on testing and ensuring correct behavior. The original version was functional but lacked robust input validation, error handling, and efficiency improvements. The artifact here is the original code and its enhanced version after applying modifications to improve its modularity, validation, and overall efficiency. 
 
-Through the enhancement process, I learned how critical thoughtful design decisions are when writing scalable and maintainable software. I focused on organizing the code more effectively, improving validation, and ensuring better fault tolerance through clear and concise error handling. I received feedback during the enhancement phase, and it confirmed that my design decisions aligned well with the expectations of the course. No significant changes were necessary, which reinforced my confidence in my approach to software design.
+ 
 
-The artifact is significantly improved in terms of structure, readability, and resilience to invalid input. It now follows a more modular design, supports better error handling, and enforces constraints on the data being stored. This enhancement fully meets the Software Design and Engineering outcome of the course by demonstrating my ability to produce clean, modular, and logically sound code.
+### Justification for Inclusion: 
+
+This artifact showcases my skills in software development, particularly in the following areas: 
+
+Modular design: The refactored code is more modular, with helper functions for validation and error handling, which enhances code maintainability and readability. 
+
+Validation and error handling: The improved code introduces thorough validation of input data and proper exception handling, making the system more robust. 
+
+Performance improvement: Although the original code uses ArrayList to store contacts, the refactored version focuses on improving data validation and streamlining the processes to make the system more efficient. 
+
+I selected this artifact because it allowed me to apply real world best practices to a project and improve its functionality, aligning with the objectives of testing, validation, and modular design. 
+
+ 
+
+### Specific Components Showcasing Skills: 
+
+Modularity: The creation of helper functions like isValidName, isValidPhoneNumber, and validateContact refactors the larger methods, making the code cleaner and easier to manage. 
+
+Input Validation: The original code lacked input validation, but I introduced checks to ensure contact details meet specific criteria, ensuring more reliable data input. 
+
+Error Handling: The use of specific exception messages enhances the clarity of error responses, helping developers and users better understand what went wrong. 
+
+Efficiency Improvement: The validation and error handling are improvements that will make the system more stable in its current form. 
+
+ 
+
+### Course Outcome Coverage: 
+
+I successfully met the course outcomes related to software design, particularly: 
+
+Course Outcome 3: I designed and evaluated computing solutions that improved the original system through algorithmic improvements such as validation and a more robust structure. 
+
+Course Outcome 4: I demonstrated my ability to use techniques and tools like validation functions and helper methods to improve the system's functionality and ensure it works reliably in a real-world scenario. 
+
+ 
+
+### Reflection on the Enhancement Process: 
+
+The enhancement process provided valuable learning opportunities: 
+
+Validation and Testing: I realized the importance of thorough validation to ensure that input data adheres to expected formats, which helps prevent runtime errors and data corruption. 
+
+Modularization: Breaking down large functions into smaller, focused ones helped me understand solid design principles, particularly Single Responsibility. This not only made the code easier to read but also easier to test. 
+
+Challenges: A significant challenge was ensuring that all validation checks were comprehensive while avoiding overly complex logic. It’s also been a bit since I’ve fully sat down and worked with java in quite a time, so I had to remind myself of certain things about the language. 
 
 [Contact Service Original](https://github.com/SVLemus/ePortfolio/blob/main/Enhancement%20One%20Collection%20-%20Software%20Design%20And%20Engineering/ContactService%20(Original).java)
 
